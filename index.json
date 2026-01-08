@@ -53,6 +53,10 @@
         "iwaves/bundle-hoesele-product-manufacturer": [
             "1.0"
         ],
+        "iwaves/bundle-page-performance": [
+            "1.0",
+            "2.0"
+        ],
         "iwaves/bundle-utilities": [
             "1.0",
             "2.0",

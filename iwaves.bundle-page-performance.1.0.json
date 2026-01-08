@@ -1,0 +1,15 @@
+{
+    "manifests": {
+        "iwaves/bundle-page-performance": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\PagePerformance\\IwvsPagePerformance": [
+                        "all"
+                    ]
+                }
+            },
+            "files": [],
+            "ref": "d869223f9893aeb66af3eb7b574e81daf5e4f21d"
+        }
+    }
+}

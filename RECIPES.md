@@ -21,4 +21,5 @@ Additional recipes can be found on the [Main Recipes Repository](https://github.
 | [iwaves/bundle-hoesele-pricing](https://packagist.org/packages/iwaves/bundle-hoesele-pricing) | [1.0](iwaves/bundle-hoesele-pricing/1.0) |
 | [iwaves/bundle-hoesele-product](https://packagist.org/packages/iwaves/bundle-hoesele-product) | [1.0](iwaves/bundle-hoesele-product/1.0) |
 | [iwaves/bundle-hoesele-product-manufacturer](https://packagist.org/packages/iwaves/bundle-hoesele-product-manufacturer) | [1.0](iwaves/bundle-hoesele-product-manufacturer/1.0) |
+| [iwaves/bundle-page-performance](https://packagist.org/packages/iwaves/bundle-page-performance) | [2.0](iwaves/bundle-page-performance/2.0) |
 | [iwaves/bundle-utilities](https://packagist.org/packages/iwaves/bundle-utilities) | [3.0](iwaves/bundle-utilities/3.0) |
