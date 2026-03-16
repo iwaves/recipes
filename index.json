@@ -42,7 +42,8 @@
             "1.0"
         ],
         "iwaves/bundle-hoesele-pim-connector": [
-            "1.0"
+            "1.0",
+            "2.0"
         ],
         "iwaves/bundle-hoesele-pricing": [
             "1.0"
@@ -68,11 +69,11 @@
     "branch": "main",
     "is_contrib": true,
     "_links": {
-        "repository": "github.com/iwavesmedia/recipes",
-        "origin_template": "{package}:{version}@github.com/iwavesmedia/recipes:main",
-        "recipe_template": "https://raw.githubusercontent.com/iwavesmedia/recipes/flex/main/{package_dotted}.{version}.json",
+        "repository": "github.com/iwaves/recipes",
+        "origin_template": "{package}:{version}@github.com/iwaves/recipes:main",
+        "recipe_template": "https://raw.githubusercontent.com/iwaves/recipes/flex/main/{package_dotted}.{version}.json",
         "recipe_template_relative": "{package_dotted}.{version}.json",
-        "archived_recipes_template": "https://raw.githubusercontent.com/iwavesmedia/recipes/flex/main/archived/{package_dotted}/{ref}.json",
+        "archived_recipes_template": "https://raw.githubusercontent.com/iwaves/recipes/flex/main/archived/{package_dotted}/{ref}.json",
         "archived_recipes_template_relative": "archived/{package_dotted}/{ref}.json"
     }
 }
